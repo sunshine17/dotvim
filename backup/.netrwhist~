@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/linzy/tmp/a/hg_t/.hg'
+let g:netrw_dirhist_2='/etc/init.d'
+let g:netrw_dirhist_3='/usr/local/webserver/php'
+let g:netrw_dirhist_4='/var/log/mysql'
+let g:netrw_dirhist_5='/home/linzy/doc/vims'
+let g:netrw_dirhist_6='/home/linzy/workspace/php/ad-dev-20110624/.hg'
+let g:netrw_dirhist_7='/home/linzy/doc/vims/vim_f_n'
